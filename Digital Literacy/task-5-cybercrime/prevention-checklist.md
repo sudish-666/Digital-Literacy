@@ -59,5 +59,3 @@
 > **Act fast:** In UPI fraud cases, report to your bank's fraud helpline AND file on cybercrime.gov.in within the first hour. Early reporting significantly improves the chance of freezing the transaction.
 
 ---
-
-*Created for Task 5 – Cybercrime Awareness | March 2026*
