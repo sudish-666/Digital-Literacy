@@ -62,5 +62,3 @@ Real incidents of near-identical QR code scams targeting students have been repo
 
 ---
 
-*Word count (case study narrative): ~240 words*
-*Created for Task 5 – Cybercrime Awareness | March 2026*
