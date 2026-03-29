@@ -5,8 +5,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | Aizen Verma |
-| **Registration No.** | 23BCE1234 |
+| **Name** | Sudish Agarwal |
+| **Registration No.** | 25BCE11358 |
 | **Branch** | B.Tech – Computer Science Engineering |
 | **Year / Semester** | 1st Year, 2nd Semester |
 | **Course Code** | CSE0001 |
@@ -27,30 +27,37 @@ The portfolio covers five modules: building digital awareness, establishing a pr
 ```
 digital-literacy-project/
 │
-├── README.md                          ← You are here
+├── README.md                         
 ├── report/
-│   └── Project_Report.docx            ← Full written project report
+│   └── Project_Report.docx           
 │
 ├── task-1-presentation/
-│   └── digital-literacy-infographic.png   ← Exported infographic (Canva)
+│   └── digital-literacy-infographic.png  
+│   └── Task 1 project report.docx
 │
 ├── task-2-portfolio/
 │   ├── github-profile-screenshot.png
 │   ├── linkedin-profile-screenshot.png
 │   └── kaggle-profile-screenshot.png
+│   └── Task 2 projecet report.docx
 │
 ├── task-3-platforms/
 │   ├── hackerrank-challenge-screenshot.png
+|   ├── hackerrank-challenge-screenshot2.png
 │   ├── google-form-screenshot.png
+|   ├── google-form-screenshot2.png
 │   └── google-sheet-responses-screenshot.png
+│   └── Task 3 project report.docx
 │
 ├── task-4-email-etiquette/
 │   ├── professional-emails.docx
 │   └── social-media-checklist.md
+│   └── Task 4 project report.docx
 │
 └── task-5-cybercrime/
     ├── casestudy.md
     └── prevention-checklist.md
+    └── Task 5 project report.docx
 ```
 
 ---
@@ -66,7 +73,7 @@ digital-literacy-project/
 
 ### Task 2 — Student Digital Portfolio
 > **Platforms set up:** GitHub, LinkedIn, Kaggle  
-> **GitHub Profile README:** [github.com/sudish-666](https://github.com/sudish-666)  
+> **GitHub Profile README:** (https://github.com/sudish-666)  
 > A professional digital presence built across platforms relevant to CS students and the tech industry.  
 > 📂 See: `task-2-portfolio/`
 
@@ -74,7 +81,7 @@ digital-literacy-project/
 
 ### Task 3 — Coding & Collaboration Platforms
 > **Coding platform:** HackerRank (Python Introduction challenge completed)  
-> **Google Form:** Digital Literacy Awareness Quiz — [View Form →](https://forms.google.com) *(link to be updated after publishing)*  
+> **Google Form:** Digital Literacy Awareness Quiz — [[View Form →](https://forms.google.com)](https://docs.google.com/forms/d/e/1FAIpQLSd5POzaNxT-nNBOKc5hfSpacQKpwbV1i2d7DQg5_afV_U1Rnw/viewform?usp=preview fill this form) *(link to be updated after publishing)*  
 > 📂 See: `task-3-platforms/`
 
 ---
