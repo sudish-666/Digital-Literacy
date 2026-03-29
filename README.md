@@ -106,10 +106,10 @@ digital-literacy-project/
 
 | Resource | Link |
 |----------|------|
-| GitHub Profile | [github.com/sudish-666](https://github.com/sudish-666) |
-| LinkedIn | *(link to be added)* |
-| Kaggle | *(link to be added)* |
-| Digital Literacy Quiz (Google Form) | *(link to be added after publishing)* |
+| GitHub Profile | (https://github.com/sudish-666) |
+| LinkedIn | (www.linkedin.com/in/sudish-agarwal-5189b1398) |
+| Kaggle | (https://www.kaggle.com/sudishagarwal) |
+| Digital Literacy Quiz (Google Form) | (https://forms.google.com)](https://docs.google.com/forms/d/e/1FAIpQLSd5POzaNxT-nNBOKc5hfSpacQKpwbV1i2d7DQg5_afV_U1Rnw/viewform?usp=preview fill this form) |
 | Cybercrime Reporting Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
 | Cyber Crime Helpline | 1930 (24×7) |
 
@@ -120,5 +120,3 @@ digital-literacy-project/
 `Canva` · `GitHub` · `LinkedIn` · `Kaggle` · `HackerRank` · `Google Forms` · `Google Sheets` · `MS Word`
 
 ---
-
-*Last updated: March 2026 | VIT Bhopal University*
