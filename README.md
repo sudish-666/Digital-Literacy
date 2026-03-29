@@ -52,7 +52,7 @@ digital-literacy-project
 │   └── social-media-checklist.md
 │   └── Task 4 project report.docx
 │
-└── task-5-cybercrime/
+├──  task-5-cybercrime/
 |   ├── casestudy.md
 |   └── prevention-checklist.md
 |   └── Task 5 project report.docx
