@@ -28,35 +28,32 @@ I went through five tasks covering different areas: creating a digital awareness
 digital-literacy-project/
 │
 ├── README.md
-├── Project_Report.docx
-│
+├── report/
+│   └── Project_Report.pdf
 ├── task-1-presentation/
-│   ├── digital-literacy-infographic.png
-│   └── Task 1 project report.docx
-│
+│   ├── infographic.png
+│   └── README.md
 ├── task-2-portfolio/
-│   ├── github-profile-screenshot.png
-│   ├── linkedin-profile-screenshot.png
-│   ├── kaggle-profile-screenshot.png
-│   └── Task 2 project report.docx
-│
+│   ├── github-screenshot.png
+│   ├── linkedin-screenshot.png
+│   ├── kaggle-screenshot.png
+│   └── reflection.md
 ├── task-3-platforms/
 │   ├── hackerrank-challenge-screenshot.png
 │   ├── hackerrank-challenge-screenshot2.png
 │   ├── google-form-screenshot.png
 │   ├── google-form-screenshot2.png
 │   ├── google-sheet-responses-screenshot.png
-│   └── Task 3 project report.docx
-│
+│   └── reflection.md
 ├── task-4-email-etiquette/
-│   ├── professional-emails.docx
+│   ├── email-drafts.md
 │   ├── social-media-checklist.md
-│   └── Task 4 project report.docx
-│
+│   └── reflection.md
 └── task-5-cybercrime/
     ├── casestudy.md
     ├── prevention-checklist.md
-    └── Task 5 project report.docx
+    └── reflection.md
+
 ```
 
 ---
