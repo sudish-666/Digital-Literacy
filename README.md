@@ -25,34 +25,34 @@ I went through five tasks covering different areas: creating a digital awareness
 ## Repository Structure
 
 ```
-digital-literacy-project/
+Digital Literacy/
 │
-├── README.md
 ├── report/
-│   └── Project_Report.pdf
+│   └── Project_Report.docx
 ├── task-1-presentation/
-│   ├── infographic.png
-│   └── README.md
+│   ├── description.md
+│   └── digital-literacy-infographic.png
 ├── task-2-portfolio/
-│   ├── github-screenshot.png
-│   ├── linkedin-screenshot.png
-│   ├── kaggle-screenshot.png
+│   ├── github-profile-screenshot.png
+│   ├── kaggle-profile-screenshot.png
+│   ├── linkedin-profile-screenshot.png
 │   └── reflection.md
 ├── task-3-platforms/
-│   ├── hackerrank-challenge-screenshot.png
-│   ├── hackerrank-challenge-screenshot2.png
 │   ├── google-form-screenshot.png
 │   ├── google-form-screenshot2.png
+│   ├── reflection.md
 │   ├── google-sheet-responses-screenshot.png
-│   └── reflection.md
+│   ├── hackerrank-challenge-screenshot.png
+│   └──hackerrank-challenge-screenshot2.png
 ├── task-4-email-etiquette/
 │   ├── email-drafts.md
-│   ├── social-media-checklist.md
-│   └── reflection.md
+│   ├── reflection.md
+│   └── social-media-checklist.md
 └── task-5-cybercrime/
-    ├── casestudy.md
-    ├── prevention-checklist.md
-    └── reflection.md
+│   ├── casestudy.md
+│   ├── prevention-checklist.md
+│   └── reflection.md
+├── README.md
 
 ```
 
@@ -64,7 +64,7 @@ digital-literacy-project/
 
 I used Canva to make a one-page infographic covering what digital literacy actually means, safe internet habits, and how to build a professional online presence. Fitting everything into one page was harder than expected — I had to cut a lot.
 
-📂 See: `task-1-presentation/`
+See: `task-1-presentation/`
 
 ---
 
@@ -76,7 +76,7 @@ I set up profiles on GitHub, LinkedIn, and Kaggle. My GitHub already existed but
 - LinkedIn: [linkedin.com/in/sudish-agarwal-5189b1398](https://www.linkedin.com/in/sudish-agarwal-5189b1398)
 - Kaggle: [kaggle.com/sudishagarwal](https://www.kaggle.com/sudishagarwal)
 
-📂 See: `task-2-portfolio/`
+See: `task-2-portfolio/`
 
 ---
 
@@ -86,7 +86,7 @@ For the coding part, I used HackerRank and completed the Python Introduction cha
 
 - Google Form Quiz: [View Form →](https://docs.google.com/forms/d/e/1FAIpQLSd5POzaNxT-nNBOKc5hfSpacQKpwbV1i2d7DQg5_afV_U1Rnw/viewform?usp=preview)
 
-📂 See: `task-3-platforms/`
+See: `task-3-platforms/`
 
 ---
 
@@ -94,7 +94,7 @@ For the coding part, I used HackerRank and completed the Python Introduction cha
 
 I wrote two emails: one requesting a deadline extension from a professor, and one expressing interest in a summer internship. I also put together a Social Media Do's and Don'ts checklist for college students.
 
-📂 See: `task-4-email-etiquette/`
+See: `task-4-email-etiquette/`
 
 ---
 
@@ -106,7 +106,7 @@ If you or anyone you know has been targeted:
 - Report at: [cybercrime.gov.in](https://cybercrime.gov.in)
 - Call: **1930** (24×7, free)
 
-📂 See: `task-5-cybercrime/`
+See: `task-5-cybercrime/`
 
 ---
 
