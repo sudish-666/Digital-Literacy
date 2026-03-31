@@ -26,4 +26,3 @@ the person directly before completing any online
 transaction with a stranger. Small habits like 
 these can prevent significant financial loss.
 ```
-
