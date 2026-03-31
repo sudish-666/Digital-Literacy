@@ -4,7 +4,7 @@ This repository is my submission for the CSE0001 Digital Literacy project. The i
 
 I went through five tasks covering different areas: creating a digital awareness resource, setting up professional profiles, exploring coding platforms, writing professional emails, and researching cybercrime. Each task has its own folder below.
 
-
+'''
 
 Repository Structure
 
@@ -38,7 +38,7 @@ Digital Literacy/
 │   └── reflection.md
 └── README.md
 
-
+'''
 
 
 Task Summaries
