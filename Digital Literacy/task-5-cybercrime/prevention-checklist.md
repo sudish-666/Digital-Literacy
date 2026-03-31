@@ -34,15 +34,15 @@
 
 8. **Never share OTP, CVV, or UPI PIN** with anyone — 
    not even someone claiming to be from your bank, 
-   Google Pay, or PhonePe support.
+   Google Pay or PhonePe support.
 
 ## Reporting Cybercrime
 
 If you or someone you know becomes a victim of 
 any cybercrime:
 
-- 🌐 Report online: **cybercrime.gov.in**
-- 📞 Call helpline: **1930** (available 24x7)
+-  Report online: **cybercrime.gov.in**
+-  Call helpline: **1930** (available 24x7)
 
 Act immediately — the faster you report, the higher 
 the chance of freezing the fraudulent transaction.
