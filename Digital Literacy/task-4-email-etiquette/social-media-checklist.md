@@ -1,6 +1,6 @@
 # Social Media Do's and Don'ts for College Students
 
-## ✅ Do's
+## Do's
 
 1. **Keep your profiles professional** – Use a clear 
    name and appropriate profile picture on platforms 
@@ -21,7 +21,7 @@
    cyberbullying, hate speech, or fraud, report it 
    using the platform's reporting tools.
 
-## ❌ Don'ts
+## Don'ts
 
 1. **Don't share personal information publicly** – 
    Avoid posting your phone number, address, or 
