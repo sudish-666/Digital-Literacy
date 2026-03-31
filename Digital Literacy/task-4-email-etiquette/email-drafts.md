@@ -1,8 +1,4 @@
-Professional Email Drafts
-
-Task 4 – Email Etiquette  |  Digital Literacy Assignment
-
-Email 1 — Assignment Extension Request
+**Email 1 — Assignment Extension Request**
 
 dr.sharma@vitbhopal.ac.in 
 
@@ -12,11 +8,11 @@ DATE: 27 March 2026
 
 SUBJECT: Request for Assignment Submission Extension – Data Structures (CS2001)
 
-Dear Dr. Sharma,
+Dear Dr Sharma,
 
 I am writing to respectfully request a short extension for the Data Structures assignment (Unit 3 – Linked Lists), originally due on 31 March 2026.
 
-Over the past week, I have been unwell and have consequently fallen behind on completing the assignment to the standard I know is expected. I have made progress, but I want to ensure the submission reflects genuine understanding of the concepts rather than rushed work.
+Over the past week, I have been unwell and have consequently fallen behind on completing the assignment to the standard I know is expected. I have made progress, but I want to ensure the submission reflects a genuine understanding of the concepts rather than rushed work.
 
 I am requesting an extension of three additional days, submitting by 3 April 2026. I understand the demands on your schedule and assure you that no further extensions will be required.
 
@@ -35,7 +31,9 @@ Mob: +91-XXXXXXXXXX  |  sudish.25bce11358@vitbhopal.ac.in
 
 
 
-Email 2 — Summer Internship Interest
+
+
+**Email 2 — Summer Internship Interest**
 
 internships@techcorpsolutions.in
 
