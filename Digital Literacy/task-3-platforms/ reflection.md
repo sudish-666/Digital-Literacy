@@ -7,11 +7,11 @@
 **Challenge Completed:** Solve Me First
 
 I created an account on HackerRank and completed the 
-"Solve Me First" beginner challenge. The problem required 
+"Arithmetic Operators" beginner challenge. The problem required 
 reading two integers and printing their sum — a simple 
 but effective introduction to how competitive programming 
 platforms work. After submitting the correct solution, 
-I received a completion confirmation which is included 
+I received a completion confirmation, which is included 
 as a screenshot in this folder.
 
 ## Part B – Google Workspace Collaboration
@@ -23,11 +23,11 @@ using Google Forms. The quiz is designed to test basic
 digital literacy knowledge among first-year students.
 
 ### Questions included:
-1. What does digital literacy mean? (Short answer)
-2. Which of these is considered a strong password? (MCQ)
-3. What should you do if you receive a phishing email? (MCQ)
-4. Name one safe internet practice you follow daily. (Short answer)
-5. Which platform is best suited for professional networking? (MCQ)
+1. What is digital literacy? (Short answer)
+2. Password Security Which of the following is considered the most secure method for managing multiple complex passwords? (MCQ)
+3. List two characteristics of a strong password. (Short answere)
+4. Source Verification: Which of the following are reliable ways to verify the credibility of an online news article? (Select all that apply)  (MCQ)
+5. Digital Footprint: Which of the following best describes your "digital footprint"? (MCQ)
 
 The form is linked to a Google Sheet that automatically 
 collects responses, which is also screenshotted in this folder.
