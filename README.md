@@ -23,10 +23,10 @@ Digital Literacy/
 ├── task-3-platforms/
 │   ├── google-form-screenshot.png
 │   ├── google-form-screenshot2.png
-│   ├── reflection.md
 │   ├── google-sheet-responses-screenshot.png
 │   ├── hackerrank-challenge-screenshot.png
-│   └──hackerrank-challenge-screenshot2.png
+│   ├── hackerrank-challenge-screenshot2.png
+│   └── reflection.md
 ├── task-4-email-etiquette/
 │   ├── email-drafts.md
 │   ├── reflection.md
@@ -51,7 +51,7 @@ See: `task-1-presentation/`
 
 Task 2 — Student Digital Portfolio
 
-I set up profiles on GitHub, LinkedIn, and Kaggle. My GitHub already existed but was basically empty — this task pushed me to actually write a proper profile README. LinkedIn was new for me; I filled in my education section and connected it to my college email.
+I set up profiles on GitHub, LinkedIn, and Kaggle. My GitHub already existed but was basically empty — this task pushed me to actually write a proper README for my profile. LinkedIn was new to me; I filled out my education section and linked it to my college email.
 
 - GitHub: [github.com/sudish-666](https://github.com/sudish-666)
 - LinkedIn: [linkedin.com/in/sudish-agarwal-5189b1398](https://www.linkedin.com/in/sudish-agarwal-5189b1398)
