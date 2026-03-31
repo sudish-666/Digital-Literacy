@@ -1,11 +1,17 @@
 Professional Email Drafts
+
 Task 4 – Email Etiquette  |  Digital Literacy Assignment
+
 Email 1 — Assignment Extension Request
 
 dr.sharma@vitbhopal.ac.in 
+
 sudish.25bce11358@vitbhopal.ac.in
+
 DATE: 27 March 2026
+
 SUBJECT: Request for Assignment Submission Extension – Data Structures (CS2001)
+
 Dear Dr. Sharma,
 
 I am writing to respectfully request a short extension for the Data Structures assignment (Unit 3 – Linked Lists), originally due on 31 March 2026.
@@ -19,8 +25,11 @@ Thank you for your time and understanding. I am happy to discuss this further at
 Yours sincerely,
 
 Sudish Agarwal
+
 B.Tech Computer Science (1st Year, 2nd Semester)
+
 Roll No: 23BCE11358  |  VIT Bhopal University
+
 Mob: +91-XXXXXXXXXX  |  sudish.25bce11358@vitbhopal.ac.in
 
 
@@ -29,9 +38,13 @@ Mob: +91-XXXXXXXXXX  |  sudish.25bce11358@vitbhopal.ac.in
 Email 2 — Summer Internship Interest
 
 internships@techcorpsolutions.in
+
 sudish.25bce11358@vitbhopal.ac.in
+
 DATE: 27 March 2026
+
 SUBJECT: Application for Summer Internship 2026 – Computer Science Undergraduate
+
 Dear Internship Coordinator,
 
 I am a first-year B.Tech Computer Science student at VIT Bhopal University, and I am writing to express my interest in a summer internship opportunity at TechCorp Solutions for the upcoming vacation period (May–July 2026).
@@ -45,6 +58,9 @@ I have attached my resume for your reference. I would be grateful for the opport
 Yours sincerely,
 
 Sudish Agarwal
+
 B.Tech Computer Science (1st Year) – VIT Bhopal University
+
 GitHub: github.com/sudish-666  |  sudish.25bce11358@vitbhopal.ac.in
+
 Mob: +91-XXXXXXXXXX
