@@ -52,7 +52,7 @@ Digital Literacy/
 │   ├── casestudy.md
 │   ├── prevention-checklist.md
 │   └── reflection.md
-├── README.md
+└── README.md
 
 ```
 
