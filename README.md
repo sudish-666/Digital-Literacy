@@ -22,7 +22,7 @@ I went through five tasks covering different areas: creating a digital awareness
 
 ---
 
-## Repository Structure
+Repository Structure
 
 ```
 Digital Literacy/
