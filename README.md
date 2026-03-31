@@ -40,10 +40,10 @@ Digital Literacy/
 ├── task-3-platforms/
 │   ├── google-form-screenshot.png
 │   ├── google-form-screenshot2.png
-│   ├── reflection.md
 │   ├── google-sheet-responses-screenshot.png
 │   ├── hackerrank-challenge-screenshot.png
-│   └──hackerrank-challenge-screenshot2.png
+│   ├── hackerrank-challenge-screenshot2.png
+│   └──reflection.md
 ├── task-4-email-etiquette/
 │   ├── email-drafts.md
 │   ├── reflection.md
