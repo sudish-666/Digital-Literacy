@@ -19,4 +19,4 @@ student-friendly format. The design uses icons, colour
 coding, and short bullet points for easy readability.
 
 ## Output
-infographic.png
+digital-literacy-infographic.png
