@@ -1,19 +1,3 @@
-# Digital Literacy Portfolio
-### CSE0001 – Digital Literacy | VIT Bhopal University
-
----
-
-| Field | Details |
-|-------|---------|
-| **Name** | Sudish Agarwal |
-| **Registration No.** | 25BCE11358 |
-| **Branch** | B.Tech – Computer Science Engineering |
-| **Year / Semester** | 1st Year, 2nd Semester |
-| **Course Code** | CSE0001 |
-| **Submission Mode** | GitHub Repository |
-
----
-
 ## About This Project
 
 This repository is my submission for the CSE0001 Digital Literacy project. The idea behind it is that we act as Student Digital Ambassadors — basically, someone who knows how to use the internet properly and can help peers do the same.
