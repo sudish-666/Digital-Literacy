@@ -1,70 +1,50 @@
-# Task 4: Professional Email Drafts
+Professional Email Drafts
+Task 4 – Email Etiquette  |  Digital Literacy Assignment
+Email 1 — Assignment Extension Request
 
----
+dr.sharma@vitbhopal.ac.in 
+sudish.25bce11358@vitbhopal.ac.in
+DATE: 27 March 2026
+SUBJECT: Request for Assignment Submission Extension – Data Structures (CS2001)
+Dear Dr. Sharma,
 
-## Email 1 – Request for Assignment Deadline Extension
+I am writing to respectfully request a short extension for the Data Structures assignment (Unit 3 – Linked Lists), originally due on 31 March 2026.
 
-**Subject:** Request for Extension on Assignment Submission – CSE0001
+Over the past week, I have been unwell and have consequently fallen behind on completing the assignment to the standard I know is expected. I have made progress, but I want to ensure the submission reflects genuine understanding of the concepts rather than rushed work.
 
-Dear Professor,
+I am requesting an extension of three additional days, submitting by 3 April 2026. I understand the demands on your schedule and assure you that no further extensions will be required.
 
-I hope this email finds you well. I am Sudish Agarwal, 
-a first-year B.Tech CSE student (Registration No. 25BCE11358) 
-enrolled in your Digital Literacy course (CSE0001).
-
-I am writing to respectfully request a short extension 
-on the upcoming assignment submission deadline. Due to 
-an unexpected overlap with multiple other subject 
-deadlines this week, I have been unable to give this 
-assignment the attention it deserves.
-
-I assure you that I am actively working on it and would 
-be able to submit a complete and quality submission if 
-granted an extension of 2-3 days.
-
-I sincerely apologize for any inconvenience caused and 
-thank you for your understanding.
+Thank you for your time and understanding. I am happy to discuss this further at your earliest convenience.
 
 Yours sincerely,
+
 Sudish Agarwal
-B.Tech CSE | 1st Year
-Registration No. 25BCE11358
-VIT Bhopal University
+B.Tech Computer Science (1st Year, 2nd Semester)
+Roll No: 23BCE11358  |  VIT Bhopal University
+Mob: +91-XXXXXXXXXX  |  sudish.25bce11358@vitbhopal.ac.in
 
----
 
-## Email 2 – Interest in Summer Internship Opportunity
 
-**Subject:** Application for Summer Internship Opportunity – 
-B.Tech CSE Student
 
-Dear Hiring/Internship Coordinator,
+Email 2 — Summer Internship Interest
 
-I hope you are doing well. My name is Sudish Agarwal 
-and I am currently pursuing my B.Tech in Computer 
-Science Engineering (1st Year) at VIT Bhopal University.
+internships@techcorpsolutions.in
+sudish.25bce11358@vitbhopal.ac.in
+DATE: 27 March 2026
+SUBJECT: Application for Summer Internship 2026 – Computer Science Undergraduate
+Dear Internship Coordinator,
 
-I am writing to express my keen interest in any available 
-summer internship opportunities at your organization. 
-I am particularly interested in roles related to software 
-development or data science, as these align with my 
-current learning goals and long-term career interests.
+I am a first-year B.Tech Computer Science student at VIT Bhopal University, and I am writing to express my interest in a summer internship opportunity at TechCorp Solutions for the upcoming vacation period (May–July 2026).
 
-I am a motivated and quick learner, comfortable with 
-Python and currently building skills in AI/ML. I would 
-be grateful for the opportunity to contribute to your 
-team while gaining practical industry exposure.
+I have been developing hands-on skills in Python, web development, and data structures through coursework and self-directed projects, including an expense tracker application available on my GitHub profile (github.com/sudish-666). I am also currently preparing for Google and Microsoft AI certifications, reflecting my commitment to continuous learning.
 
-Please find my GitHub profile for reference:
-github.com/sudish-666
+I am drawn to TechCorp's work in AI-integrated software solutions and would welcome the chance to contribute meaningfully while gaining industry exposure. I am available for both on-site and remote roles and can join from the first week of May.
 
-I would be happy to share any additional information 
-or documents at your convenience. Thank you for 
-considering my application.
+I have attached my resume for your reference. I would be grateful for the opportunity to discuss how I might contribute to your team.
 
 Yours sincerely,
+
 Sudish Agarwal
-B.Tech CSE | 1st Year
-VIT Bhopal University
-LinkedIn: linkedin.com/in/sudish-agarwal-5189b1398
-GitHub: github.com/sudish-666
+B.Tech Computer Science (1st Year) – VIT Bhopal University
+GitHub: github.com/sudish-666  |  sudish.25bce11358@vitbhopal.ac.in
+Mob: +91-XXXXXXXXXX
