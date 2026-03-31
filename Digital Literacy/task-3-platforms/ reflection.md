@@ -4,7 +4,7 @@
 
 **Platform Used:** HackerRank (hackerrank.com)
 
-**Challenge Completed:** Solve Me First
+**Challenge Completed:** Arithmetic Operators
 
 I created an account on HackerRank and completed the 
 "Arithmetic Operators" beginner challenge. The problem required 
